@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "pysyn"
+version = "0.1.0"
+description = "A simple music synthesizer in Python."
+authors = ["Aditya Marathe"]
+license = "MIT License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.26.4"
+matplotlib = "^3.9.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
