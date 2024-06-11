@@ -2,6 +2,10 @@
 
 A simple additive synthesizer.
 
+## Acknowledgements
+
+Many thanks to my friend, Uzay Islek, who guided me through the intricacies of music theory and provided feedback on my ideas; the project would not have moved forward without his musical expertise.
+
 ## Objectives
 
 Overall, create a simple additive synthesizer in Python.
@@ -20,6 +24,7 @@ Overall, create a simple additive synthesizer in Python.
     - Explore existing solutions:
         - [MIDI](https://en.wikipedia.org/wiki/MIDI) (?)
         - [LilyPond](https://lilypond.org/)
+    - Update (11.06.2024): Create a parser for [abc notation](https://abcnotation.com/) - clean syntax, get sheet music, and easily expandable.
 
 ### Long-term
 
